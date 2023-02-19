@@ -439,6 +439,7 @@ form button{
     border: 2px dashed aqua;
     padding: 10px 30px;
     color: aqua;
+    box-shadow: 0px 0px 10px aqua;
 
 }
 .footer-links * li a:hover{
@@ -449,9 +450,9 @@ form button{
     border: 1   px dashed aqua;
     padding: 3px 3px;
     border-radius: 3px;
-    text-decoration:underline;
     font-weight: 400;
     font-size: 95%;
+    box-shadow: 0px 0px 6px rgb(24, 120, 120);
 
 
 }
@@ -474,10 +475,13 @@ h1:hover{
     transition-duration: 1s;
     transition-timing-function: ease-in-out;
     border:5px rgb(28, 48, 48) dashed;
+    box-shadow: 2px 2px 20px blue;
 
 }
 .ftimg1:hover,.ftimg2:hover{
     transition-duration: 1s;
     transition-timing-function: ease-in-out;
     border:5px rgb(28, 48, 48) dashed;
+    box-shadow: 0px 0px 20px rgb(25, 211, 225);
 }
+ 
